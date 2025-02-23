@@ -1,13 +1,13 @@
 import { Col, Container, Row } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import Pizza from "../../assets/about/pizza.png";
+import Coffee from "../../assets/about/coffee.png";
 import Salad from "../../assets/about/salad.png";
 import Delivery from "../../assets/about/delivery-bike.png";
 
 //Mock Data Cards
 const mockData = [
   {
-    image: Pizza,
+    image: Coffee,
     title: "Original",
     paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
   },
