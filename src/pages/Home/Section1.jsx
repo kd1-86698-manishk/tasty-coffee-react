@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import Burger from "../../assets/hero/hero-2.png";
+import Burger from "../../assets/hero/coffee1.png";
 import { Link } from "react-router-dom";
 function Section1() {
   return (
@@ -20,8 +20,8 @@ function Section1() {
           </Col>
           <Col lg={5}>
             <div className="hero_text text-center">
-              <h1 className="text-white">New Burger</h1>
-              <h2 className="text-white">with Onion</h2>
+              <h1 className="text-white">Iced Coffee</h1>
+              <h2 className="text-white">Coffee & More</h2>
               <p className="text-white pt-2 pb-4">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Repudiandae sed itaque sapiente, perspiciatis modi debitis
