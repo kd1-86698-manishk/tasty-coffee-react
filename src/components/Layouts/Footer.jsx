@@ -29,9 +29,9 @@ function Footer() {
             <Col sm={6} lg={3} className=" mb-4 mb-lg-0">
               <div className="text-center">
                 <h5>Location</h5>
-                <p>5505 Waterford District</p>
-                <p>Dr,Miami,FL 33126</p>
-                <p>United States</p>
+                <p>Galaxy Garden, N Main Rd</p>
+                <p>Koregaon Park, Pune</p>
+                <p>Maharashtra 411001</p>
               </div>
             </Col>
             <Col sm={6} lg={3} className=" mb-4 mb-lg-0">
@@ -45,7 +45,7 @@ function Footer() {
             <Col sm={6} lg={3} className=" mb-4 mb-lg-0">
               <div className="text-center">
                 <h5>Order Now </h5>
-                <p>Quaerat neque purus ipsum</p>
+                <p>Your first coffee</p>
                 <p>
                   <Link to="tel:9998887777" className="calling">
                     999-888-7777

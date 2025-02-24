@@ -30,7 +30,7 @@ function Section6() {
                     <i className="bi bi-star-fill"></i>
                   </div>
                   <h5>
-                    BY AMELIE NEWLOVE
+                    BY ADITYA LONKAR
                   </h5>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -53,7 +53,7 @@ function Section6() {
                     <i className="bi bi-star-fill"></i>
                   </div>
                   <h5>
-                    BY AMELIE NEWLOVE
+                    BY MAYURI KALBHOR
                   </h5>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -76,7 +76,7 @@ function Section6() {
                     <i className="bi bi-star-fill"></i>
                   </div>
                   <h5>
-                    BY AMELIE NEWLOVE
+                    BY PRAMOD SHEWALE
                   </h5>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -99,7 +99,7 @@ function Section6() {
                     <i className="bi bi-star-fill"></i>
                   </div>
                   <h5>
-                    BY AMELIE NEWLOVE
+                    BY HRITHIK GONDHALE
                   </h5>
                 </Carousel.Caption>
               </Carousel.Item>
