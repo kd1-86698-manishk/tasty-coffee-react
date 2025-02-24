@@ -19,7 +19,7 @@ const mockData = [
     title: "Iced Toffee Nut Crunch Latte",
     paragraph: "Delight your senses with our Iced Toffee Nut Crunch Latte & combination milk",
     rating: 5,
-    price: 99.15,
+    price: 9.15,
   },
   {
     id: "0002",
@@ -27,7 +27,7 @@ const mockData = [
     title: "Iced Crunchy Red Mocha Latte",
     paragraph: "Almost too cute to drink, our Iced Crunchy Red Hat Mocha Latte ",
     rating: 4.5,
-    price: 99.32,
+    price: 8.32,
   },
   {
     id: "0003",
@@ -35,7 +35,7 @@ const mockData = [
     title: "Iced Caffè Latte",
     paragraph: "Our dark, Rich in flavour espresso is combined with milk and served over ice",
     rating: 4,
-    price: 69.15,
+    price: 6.15,
   },
   {
     id: "0004",
@@ -43,7 +43,7 @@ const mockData = [
     title: "Iced Creme Brulee Latte",
     paragraph: "Chill with the Iced Vienna Creamy Latte: espresso, milk, mocha, and Vanilla",
     rating: 3.5,
-    price: 99.25,
+    price: 5.25,
   },
   {
     id: "0005",
@@ -52,7 +52,7 @@ const mockData = [
     paragraph:
       "Get your festive cheer on with our Iced Gingerbread Latte. .",
     rating: 3.0,
-    price: 59.25,
+    price: 6.25,
   },
   {
     id: "0006",
@@ -60,7 +60,7 @@ const mockData = [
     title: "Caffe Latte",
     paragraph: "A blend of espresso and velvety milk infused with decadent Crème Brulee",
     rating: 3,
-    price: 79.18,
+    price: 7.18,
   },
   {
     id: "0007",
@@ -68,7 +68,7 @@ const mockData = [
     title: "Blonde Almond Latte",
     paragraph: "Ditch the dairy with our Plant-Based Almond special",
     rating: 2.5,
-    price: 99.19,
+    price: 6.19,
 },
 {
     id: "0008",
@@ -76,7 +76,7 @@ const mockData = [
     title: "Cappuccino",
     paragraph: "Dark,Rich in flavour espresso lies in wait under a smoothed and layer of foam.",
     rating: 2.0,
-    price: 89.12,
+    price: 6.12,
   },
   // Add more mock data objects as needed
 ];
