@@ -4,7 +4,7 @@ import Burger from "../../assets/hero/coffee1.png";
 import { Link } from "react-router-dom";
 function Section1() {
   return (
-    <section className="hero_section">
+    <section className="hero_section" id="section1">
       <Container>
         <Row>
           <Col lg={7} className="mb-5 mb-lg-0">

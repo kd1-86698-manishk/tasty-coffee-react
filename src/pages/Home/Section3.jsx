@@ -100,7 +100,7 @@ const renderRatingIcons = (rating) => {
 
 function Section3() {
   return (
-    <section className="menu_section">
+    <section className="menu_section" id="section3">
       <Container>
         <Row>
           <Col lg={{ span: 8, offset: 2 }} className="text-center mb-5">
